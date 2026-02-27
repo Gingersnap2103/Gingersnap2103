@@ -7,7 +7,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FDA4BA,100:53d1df&height=2"/>
 </p>
 <p align="center">
-Hi there!<br>
 My name is Sophie Bates <br>
 🌱 I am currently learning: JavaScript and HTML <br>
 🌱 I am currently working on: Portfolio Website and Water Reminders Desktop App

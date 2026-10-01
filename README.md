@@ -8,7 +8,7 @@
 </p>
 <p align="center">
 My name is Sophie Bates <br>
-🌱 I am currently learning: JavaScript and HTML <br>
+🌱 I am currently completing my MSc Computer Science <br>
 🌱 I am currently working on: Portfolio Website and Water Reminders Desktop App
 </p>
 <p align="center">
